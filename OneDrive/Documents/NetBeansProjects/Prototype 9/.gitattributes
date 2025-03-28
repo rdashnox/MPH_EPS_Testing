@@ -1,0 +1,5 @@
+*.java linguist-detectable=true
+*.html linguist-detectable=false
+*.pdf linguist-vendored
+*.xlsx linguist-vendored
+*.xls linguist-vendored
